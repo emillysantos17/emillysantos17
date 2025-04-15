@@ -1,4 +1,4 @@
-<h1 align="center">Fala dev! 👋</h1>
+<h1 align="center">Emilly 👋</h1>
 <h3 align="center">"Programar é transformar café em código ☕💻"</h3>
 
 <p align="center">
@@ -35,7 +35,8 @@ Sou uma estudante curiosa, criativa e que curte transformar ideias em projetos r
 ---
 
 ### 🌀 Gif inspirador:
-<img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px"/>
+
 
 ---
 
